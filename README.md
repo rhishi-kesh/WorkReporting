@@ -19,4 +19,7 @@ To Install & Run This Project You Have To Follow Thoose Following Steps:
 git clone https://github.com/rhishi-kesh/WorkReporting.git
 ```
 
-Go to `http://localhost/phpmyadmin` make a database name: `work_reporting` and Import SQL file form `SQL Folder`
+Go to `http://localhost/phpmyadmin` make a database name: `work_reporting` and Import SQL file form `SQL Folder` <br> 
+Run project in `localhost` <br>
+Admin user id = `admin` & password = `1234` <br>
+Employees user id = `moderator` & password = `1234`
